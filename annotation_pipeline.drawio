@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T11:28:47.136Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="c6JG9sfI6ibd-N-ymLje" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T01:15:50.559Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7EJVSW3l9XGBaXpXt_vu" version="21.1.0" type="github">
   <diagram id="a7Y6h2KUfqzOavqReWdY" name="Page-1">
     <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="P13NX99MW8qI4qX8D52L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;endArrow=block;endFill=1;" parent="1" source="P13NX99MW8qI4qX8D52L-1" target="P13NX99MW8qI4qX8D52L-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P13NX99MW8qI4qX8D52L-1" value="Acquisition and Sampling of OGFD&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Editions" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=22;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="P13NX99MW8qI4qX8D52L-1" value="Annotation Tool&lt;br&gt;Setting" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=22;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X8KxN7Bj6W_wE7s7mUpu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=block;endFill=1;" edge="1" parent="1" source="P13NX99MW8qI4qX8D52L-2" target="X8KxN7Bj6W_wE7s7mUpu-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P13NX99MW8qI4qX8D52L-2" value="Annotators&lt;br style=&quot;font-size: 22px;&quot;&gt;Arrangement and Training" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=22;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="P13NX99MW8qI4qX8D52L-2" value="Annotation Tool Selection" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=22;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P13NX99MW8qI4qX8D52L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="X8KxN7Bj6W_wE7s7mUpu-6" edge="1">
@@ -36,7 +36,7 @@
         <mxCell id="P13NX99MW8qI4qX8D52L-8" value="Corpus Validation" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=22;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="X8KxN7Bj6W_wE7s7mUpu-6" value="Annotation Tool Selection" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=22;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="X8KxN7Bj6W_wE7s7mUpu-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Annotators&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Arrangement and Training&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="40" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X8KxN7Bj6W_wE7s7mUpu-18" value="Corpus Construction" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=22;fontStyle=1;" vertex="1" parent="1">
