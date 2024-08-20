@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="dZyxfNhD-n-z6PO_wI8t">
-    <mxGraphModel dx="2046" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2559" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,9 +57,6 @@
         </mxCell>
         <mxCell id="oD6dHYvU6bk02aI6IjlI-18" value="palavras" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=45;" vertex="1" parent="1">
           <mxGeometry x="410" y="520" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oD6dHYvU6bk02aI6IjlI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="oD6dHYvU6bk02aI6IjlI-21" target="oD6dHYvU6bk02aI6IjlI-47">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oD6dHYvU6bk02aI6IjlI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="oD6dHYvU6bk02aI6IjlI-21">
           <mxGeometry relative="1" as="geometry">
@@ -143,9 +140,6 @@
         </mxCell>
         <mxCell id="oD6dHYvU6bk02aI6IjlI-46" value="estou" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=45;" vertex="1" parent="1">
           <mxGeometry x="90" y="520" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oD6dHYvU6bk02aI6IjlI-47" value="I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=45;" vertex="1" parent="1">
-          <mxGeometry x="730" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oD6dHYvU6bk02aI6IjlI-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="200" y="305" width="20" height="590" as="geometry" />
