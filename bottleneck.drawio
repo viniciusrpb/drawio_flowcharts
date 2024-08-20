@@ -230,6 +230,24 @@
         <mxCell id="JV7l5fWzAURVy-AbNuwU-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.382;entryY=1.097;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="JV7l5fWzAURVy-AbNuwU-31" target="JV7l5fWzAURVy-AbNuwU-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JV7l5fWzAURVy-AbNuwU-99" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="200" y="305" width="20" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="JV7l5fWzAURVy-AbNuwU-100" value="Sentença de Entrada&lt;div style=&quot;font-size: 28px;&quot;&gt;Idioma de Origem&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JV7l5fWzAURVy-AbNuwU-101" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-320" width="20" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="JV7l5fWzAURVy-AbNuwU-102" value="Sentença de Saída&lt;div style=&quot;font-size: 28px;&quot;&gt;Idioma de Destino&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-100" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JV7l5fWzAURVy-AbNuwU-103" value="Encoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0080;fontStyle=1;fontSize=45;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JV7l5fWzAURVy-AbNuwU-104" value="Decoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D9900;fontStyle=1;fontSize=45;" vertex="1" parent="1">
+          <mxGeometry x="970" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
