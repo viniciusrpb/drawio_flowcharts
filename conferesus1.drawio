@@ -28,7 +28,7 @@
         <mxCell id="gDCcF5d6qkvEwwHPVIK9-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;SES-DF&lt;/b&gt;&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gDCcF5d6qkvEwwHPVIK9-12" value="Extração de Informações" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="gDCcF5d6qkvEwwHPVIK9-12" value="Extração de Informações das Atas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gDCcF5d6qkvEwwHPVIK9-14" value="Extração de&lt;div style=&quot;font-size: 22px;&quot;&gt;Texto dos PDFs&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;e JSONs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
