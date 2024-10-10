@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="-YVr1qTG_i6ZAS6AiYjy">
-    <mxGraphModel>
+    <mxGraphModel dx="1362" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lj3ovot27s9F76-LBm2p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="lj3ovot27s9F76-LBm2p-3" target="lj3ovot27s9F76-LBm2p-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="lj3ovot27s9F76-LBm2p-3" target="lj3ovot27s9F76-LBm2p-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-3" value="CSVs&lt;div&gt;SEI&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="lj3ovot27s9F76-LBm2p-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-5" value="LLM&lt;div&gt;(Ollama ou Langchain)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="lj3ovot27s9F76-LBm2p-7" target="lj3ovot27s9F76-LBm2p-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-7" value="Curadoria" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="lj3ovot27s9F76-LBm2p-9" target="lj3ovot27s9F76-LBm2p-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-9" value="Estruturação&lt;div&gt;Inicial&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="lj3ovot27s9F76-LBm2p-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-11" value="Corpus&lt;div&gt;Padrão Ouro ou Prata&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="690" y="130" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="lj3ovot27s9F76-LBm2p-13" target="lj3ovot27s9F76-LBm2p-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-13" value="Técnicas NER" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="lj3ovot27s9F76-LBm2p-15" target="lj3ovot27s9F76-LBm2p-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-15" value="Avaliação de Desempenho" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="190" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-16" value="Documentação&lt;div&gt;com a Discussão&lt;/div&gt;&lt;div&gt;dos Resultados&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="410" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lj3ovot27s9F76-LBm2p-17" value="Visualização dos&lt;div&gt;Documentos&lt;/div&gt;&lt;div&gt;Raw Texts&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
