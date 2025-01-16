@@ -12,12 +12,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LdzWI3v5EDStaElP-BDu-20" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;fontStyle=1;fontSize=24;" vertex="1" connectable="0" parent="LdzWI3v5EDStaElP-BDu-8">
+          <mxGeometry x="-0.7077" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LdzWI3v5EDStaElP-BDu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=32;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="LdzWI3v5EDStaElP-BDu-1" target="LdzWI3v5EDStaElP-BDu-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LdzWI3v5EDStaElP-BDu-1" value="&lt;font&gt;i &amp;lt;= n&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="LdzWI3v5EDStaElP-BDu-19" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontColor=#FF3333;fontStyle=1" vertex="1" connectable="0" parent="LdzWI3v5EDStaElP-BDu-14">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LdzWI3v5EDStaElP-BDu-1" value="&lt;font&gt;i &amp;lt;= n&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LdzWI3v5EDStaElP-BDu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=32;strokeWidth=4;" edge="1" parent="1" source="LdzWI3v5EDStaElP-BDu-4" target="LdzWI3v5EDStaElP-BDu-1">
@@ -28,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LdzWI3v5EDStaElP-BDu-4" value="&lt;font&gt;i = 0&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="LdzWI3v5EDStaElP-BDu-4" value="&lt;font&gt;i = 0&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="170" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdzWI3v5EDStaElP-BDu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=32;strokeWidth=4;" edge="1" parent="1" target="LdzWI3v5EDStaElP-BDu-10">
@@ -39,7 +49,7 @@
         <mxCell id="LdzWI3v5EDStaElP-BDu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=32;strokeWidth=4;" edge="1" parent="1" source="LdzWI3v5EDStaElP-BDu-6" target="LdzWI3v5EDStaElP-BDu-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LdzWI3v5EDStaElP-BDu-6" value="n = Leia Inteiro()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=24;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="LdzWI3v5EDStaElP-BDu-6" value="n = Leia Inteiro()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=24;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="10" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdzWI3v5EDStaElP-BDu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=32;strokeWidth=4;" edge="1" parent="1" source="LdzWI3v5EDStaElP-BDu-10" target="LdzWI3v5EDStaElP-BDu-1">
@@ -47,19 +57,19 @@
             <mxPoint x="500" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LdzWI3v5EDStaElP-BDu-10" value="&lt;font&gt;i = i+1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="LdzWI3v5EDStaElP-BDu-10" value="&lt;font&gt;i = i+1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="540" y="260" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LdzWI3v5EDStaElP-BDu-15" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="LdzWI3v5EDStaElP-BDu-15" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="420" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdzWI3v5EDStaElP-BDu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=32;strokeWidth=4;" edge="1" parent="1" source="LdzWI3v5EDStaElP-BDu-16" target="LdzWI3v5EDStaElP-BDu-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LdzWI3v5EDStaElP-BDu-16" value="Início" style="ellipse;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="LdzWI3v5EDStaElP-BDu-16" value="Início" style="ellipse;whiteSpace=wrap;html=1;fontSize=32;strokeWidth=4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="10" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LdzWI3v5EDStaElP-BDu-18" value="Imprime(i)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=4;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="LdzWI3v5EDStaElP-BDu-18" value="Imprime(i)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=4;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="550" y="140" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
