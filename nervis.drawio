@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A98zeI_6_ksdT_ToN1Hj-4" value="ORG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="360" height="40" as="geometry" />
+          <mxGeometry x="240" y="40" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A98zeI_6_ksdT_ToN1Hj-5" value="Silicon Valley" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="80" width="160" height="80" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="680" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A98zeI_6_ksdT_ToN1Hj-7" value="Los Angeles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="120" width="220" height="40" as="geometry" />
+          <mxGeometry x="380" y="80" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A98zeI_6_ksdT_ToN1Hj-8" value="LOC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="80" width="220" height="40" as="geometry" />
+          <mxGeometry x="380" y="40" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
