@@ -1,32 +1,41 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="26.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="xJE7kIpgzEs_ucVwuZ5W">
-    <mxGraphModel dx="1036" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A98zeI_6_ksdT_ToN1Hj-1" value="MISC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="39" y="28" width="641" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="A98zeI_6_ksdT_ToN1Hj-2" value="University of California,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="360" height="80" as="geometry" />
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="600" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A98zeI_6_ksdT_ToN1Hj-3" value="President" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="120" height="80" as="geometry" />
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-2" value="MISC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A98zeI_6_ksdT_ToN1Hj-4" value="ORG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="140" height="40" as="geometry" />
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-3" value="President" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=22;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A98zeI_6_ksdT_ToN1Hj-5" value="Silicon Valley" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="80" width="160" height="80" as="geometry" />
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-7" value="LOC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A98zeI_6_ksdT_ToN1Hj-6" value="LOC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="40" width="160" height="40" as="geometry" />
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-8" value="ORG" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A98zeI_6_ksdT_ToN1Hj-7" value="Los Angeles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="80" width="220" height="80" as="geometry" />
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-9" value="University of California," style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=22;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A98zeI_6_ksdT_ToN1Hj-8" value="LOC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="40" width="220" height="40" as="geometry" />
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Los Angeles" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=22;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="600" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-15" value="LOC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ae6y2v7SYMP8b53Yx2Ix-16" value="Sillicon Valley" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=22;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
