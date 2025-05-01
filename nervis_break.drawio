@@ -43,7 +43,7 @@
         <mxCell id="iPaC0w2HV_QWLM_zZla7-20" value="QUOTE" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;align=left;" parent="1" vertex="1">
           <mxGeometry x="781" y="50" width="389" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iPaC0w2HV_QWLM_zZla7-21" value="&amp;nbsp;What happened today in University of" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=22;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="iPaC0w2HV_QWLM_zZla7-21" value="&amp;nbsp;&quot;what happened today in University of" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=22;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="781" y="70" width="389" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="iPaC0w2HV_QWLM_zZla7-22" value="$450.76" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=22;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -59,10 +59,10 @@
           <mxGeometry x="890" y="129.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iPaC0w2HV_QWLM_zZla7-26" value="University of&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=22;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="71" width="130" height="40" as="geometry" />
+          <mxGeometry x="1035" y="71" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iPaC0w2HV_QWLM_zZla7-28" value="ORG" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="50" width="130" height="20" as="geometry" />
+          <mxGeometry x="1034" y="50" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iPaC0w2HV_QWLM_zZla7-29" value="California," style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=22;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="651" y="149.5" width="109" height="44.75" as="geometry" />
