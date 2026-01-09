@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2066" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="gDYA3ZEtiFdCUqIHOIhs-38" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="40" width="19" x="767" y="152" as="geometry" />
         </mxCell>
-        <mxCell id="gDYA3ZEtiFdCUqIHOIhs-41" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=16;fillColor=default;fontStyle=1" value="Human Annotators" vertex="1">
+        <mxCell id="gDYA3ZEtiFdCUqIHOIhs-41" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=16;fillColor=#FFFFFF;fontStyle=1" value="Human Annotators" vertex="1">
           <mxGeometry height="30" width="69" x="731" y="201" as="geometry" />
         </mxCell>
         <mxCell id="gDYA3ZEtiFdCUqIHOIhs-44" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=17;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Results Analysis" vertex="1">
