@@ -46,7 +46,7 @@
           <mxGeometry height="40" width="19" x="767" y="152" as="geometry" />
         </mxCell>
         <mxCell id="gDYA3ZEtiFdCUqIHOIhs-41" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=16;fillColor=#FFFFFF;fontStyle=1" value="Human Annotators" vertex="1">
-          <mxGeometry height="30" width="69" x="731" y="201" as="geometry" />
+          <mxGeometry height="30" width="110" x="708.68" y="201.75" as="geometry" />
         </mxCell>
         <mxCell id="gDYA3ZEtiFdCUqIHOIhs-44" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fontSize=17;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Results Analysis" vertex="1">
           <mxGeometry height="60" width="160" x="30" y="298.5" as="geometry" />
