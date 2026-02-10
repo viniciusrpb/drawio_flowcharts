@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Page-1" id="q4QUXiulCxC3nAg-rHhV">
+    <mxGraphModel dx="1360" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zj7vSDNZ_eVQjdK-VjcV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#EA6B66;strokeWidth=4;fontSize=14;fontStyle=1;align=left;" value="TEXT" vertex="1">
+          <mxGeometry height="80" width="160" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zj7vSDNZ_eVQjdK-VjcV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#EA6B66;strokeWidth=4;fontSize=14;fontStyle=1;align=left;" value="LABEL" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zj7vSDNZ_eVQjdK-VjcV-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="All annotators agreed" vertex="1">
+          <mxGeometry height="30" width="280" x="290" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zj7vSDNZ_eVQjdK-VjcV-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=4;dashed=1;align=left;fontSize=14;fontStyle=1" value="TEXT" vertex="1">
+          <mxGeometry height="80" width="160" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zj7vSDNZ_eVQjdK-VjcV-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=4;dashed=1;align=left;fontSize=14;fontStyle=1" value="LABEL" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zj7vSDNZ_eVQjdK-VjcV-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="Text span disagreement" vertex="1">
+          <mxGeometry height="30" width="320" x="270" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zj7vSDNZ_eVQjdK-VjcV-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=left;fontSize=14;fontStyle=1;fillColor=#666666;fontColor=#FFFFFF;" value="TEXT" vertex="1">
+          <mxGeometry height="80" width="160" x="40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="zj7vSDNZ_eVQjdK-VjcV-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=left;fontSize=14;fontStyle=1;fillColor=#666666;fontColor=#FFFFFF;" value="LABEL 1 / LABEL 2" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zj7vSDNZ_eVQjdK-VjcV-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="Label disagreement" vertex="1">
+          <mxGeometry height="30" width="320" x="270" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
