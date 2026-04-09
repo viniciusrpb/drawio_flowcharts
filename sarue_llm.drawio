@@ -1,69 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="qdoM27dGKo9CwaN0Y0ZA">
-    <mxGraphModel dx="1351" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="alcpAHFnjGf8QcbBmwUf-10" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontColor=#000000;" value="&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Das vacinas disponíveis, 20 fazem parte do calendário de rotina, protegendo desde recém-nascidos até __________&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="530" x="200" y="190" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="crianças" vertex="1">
-          <mxGeometry height="40" width="160" x="840" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="adultos" vertex="1">
-          <mxGeometry height="40" width="160" x="840" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="pessoas" vertex="1">
-          <mxGeometry height="40" width="160" x="840" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="mulheres" vertex="1">
-          <mxGeometry height="40" width="160" x="840" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1;fontColor=#0000CC;" value="&lt;span&gt;idosos&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="840" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="homens" vertex="1">
-          <mxGeometry height="40" width="160" x="840" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="0.08" vertex="1">
-          <mxGeometry height="40" width="120" x="1000" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="0.03" vertex="1">
-          <mxGeometry height="40" width="120" x="1000" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="0.09" vertex="1">
-          <mxGeometry height="40" width="120" x="1000" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="0.07" vertex="1">
-          <mxGeometry height="40" width="120" x="1000" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1;fontColor=#0000CC;" value="&lt;span&gt;0.65&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1000" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="0.07" vertex="1">
-          <mxGeometry height="40" width="120" x="1000" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="..." vertex="1">
-          <mxGeometry height="40" width="160" x="840" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="..." vertex="1">
-          <mxGeometry height="40" width="120" x="1000" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="animais" vertex="1">
-          <mxGeometry height="40" width="160" x="840" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="0.00" vertex="1">
-          <mxGeometry height="40" width="120" x="1000" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="2AaVfpJ-leVgBHla1ZdR-18" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="630" y="360" />
-              <mxPoint x="740" y="360" />
-            </Array>
-            <mxPoint x="530" y="300" as="sourcePoint" />
-            <mxPoint x="830" y="260" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="alcpAHFnjGf8QcbBmwUf-10" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontColor=#000000;fontSize=40;" value="&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font&gt;Das vacinas disponíveis, 20 fazem parte do calendário de rotina, protegendo desde recém-nascidos até __________&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="210" width="1080" x="80" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
