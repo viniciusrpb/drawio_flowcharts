@@ -5,7 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zj_CNjRjQ8a7YDEAAwTZ-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 60%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 60%;&quot;&gt;Electronic Bidding Process No. 002/2025 – NLC/PRES – lowest-price criterion – open bidding mode, for the hiring of a specialized company to construct the Sobradinho &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; line-height: 60%;&quot;&gt;Basic Health Unit (Modular UBS Type I)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 60%;&quot;&gt;, located at Quadra 01, AE01 – Vila Rabelo, Northern Health Region – &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; line-height: 60%;&quot;&gt;Sobradinho/DF&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 60%;&quot;&gt;, as duly specified in the Terms of Reference, the Notice, and its annexes.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 60%;&quot;&gt;Estimated contract value: R$ 7,164,156.64.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 60%;&quot;&gt;Process No. 00112-00025339/2024-64.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 60%;&quot;&gt;Date and time of the bidding session: July 25, 2025, at 9:00 AM.&lt;/span&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="160" width="310" x="40" y="40" as="geometry" />
+          <mxGeometry height="160" width="310" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F-F151Fq2-ns5-qKziiK-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F-F151Fq2-ns5-qKziiK-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="90" width="60" x="410" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="F-F151Fq2-ns5-qKziiK-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bertimbau-STS" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
