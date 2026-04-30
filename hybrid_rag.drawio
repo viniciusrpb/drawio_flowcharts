@@ -253,7 +253,7 @@
           <mxGeometry height="100" width="100" x="1225" y="-7" as="geometry" />
         </mxCell>
         <mxCell id="-J-0LIrXAwsvqGTE3l5u-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Build&lt;div&gt;Prompt&lt;/div&gt;&lt;div&gt;upon&amp;nbsp;&lt;/div&gt;&lt;div&gt;Context&lt;/div&gt;" vertex="1">
-          <mxGeometry height="59.5" width="60" x="1175" y="-24.5" as="geometry" />
+          <mxGeometry height="59.5" width="60" x="1165" y="-24.5" as="geometry" />
         </mxCell>
         <mxCell id="-J-0LIrXAwsvqGTE3l5u-153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rank" vertex="1">
           <mxGeometry height="19.5" width="60" x="1004" y="7.25" as="geometry" />
