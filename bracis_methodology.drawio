@@ -33,7 +33,7 @@
         <mxCell id="Y9CaXHGr3iqRus2gO04P-34" edge="1" parent="1" source="Y9CaXHGr3iqRus2gO04P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;" target="Y9CaXHGr3iqRus2gO04P-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9CaXHGr3iqRus2gO04P-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" value="RAG-based Approaches" vertex="1">
+        <mxCell id="Y9CaXHGr3iqRus2gO04P-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" value="RAG-based Approaches Design" vertex="1">
           <mxGeometry height="80" width="230" x="320" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Y9CaXHGr3iqRus2gO04P-13" edge="1" parent="1" source="Y9CaXHGr3iqRus2gO04P-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="Y9CaXHGr3iqRus2gO04P-2">
