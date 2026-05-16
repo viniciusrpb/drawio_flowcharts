@@ -117,8 +117,8 @@
         <mxCell id="kp1IBgQUCMKKNyvx_CBn-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="Dengue cases" vertex="1">
           <mxGeometry height="30" width="166.46" x="935.4199999999998" y="255" as="geometry" />
         </mxCell>
-        <mxCell id="kp1IBgQUCMKKNyvx_CBn-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="Fires" vertex="1">
-          <mxGeometry height="52.38" width="164.46" x="933.69" y="427.62" as="geometry" />
+        <mxCell id="kp1IBgQUCMKKNyvx_CBn-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="Wildfires / Geological Risks" vertex="1">
+          <mxGeometry height="52.38" width="164.46" x="933.69" y="438.62" as="geometry" />
         </mxCell>
         <mxCell id="kp1IBgQUCMKKNyvx_CBn-30" edge="1" parent="1" source="kp1IBgQUCMKKNyvx_CBn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;">
           <mxGeometry relative="1" as="geometry">
