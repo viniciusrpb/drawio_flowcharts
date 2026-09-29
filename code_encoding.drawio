@@ -43,8 +43,8 @@
         <mxCell id="WDfRLkISLMhyk0-QeR4z-22" parent="vck24iNMsrPrIDAQ8H6g-1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="843" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="WDfRLkISLMhyk0-QeR4z-23" parent="vck24iNMsrPrIDAQ8H6g-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=4;fontSize=16;" value="Sentence Embedding&lt;div&gt;m-dimensional&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70.5" width="137" x="713" y="230" as="geometry" />
+        <mxCell id="WDfRLkISLMhyk0-QeR4z-23" parent="vck24iNMsrPrIDAQ8H6g-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=4;fontSize=18;" value="Sentence Embedding&lt;div&gt;n-dimensional&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70.5" width="192" x="687" y="230" as="geometry" />
         </mxCell>
         <mxCell id="4XBi2VCyLJrk9UieuqUm-2" edge="1" parent="vck24iNMsrPrIDAQ8H6g-1" source="4XBi2VCyLJrk9UieuqUm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" target="WDfRLkISLMhyk0-QeR4z-10">
           <mxGeometry relative="1" as="geometry" />
