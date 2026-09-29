@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iZE65rSqbTTEPxV-hqpn-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="iZE65rSqbTTEPxV-hqpn-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="300" width="110" x="800" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="iZE65rSqbTTEPxV-hqpn-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="iZE65rSqbTTEPxV-hqpn-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="300" width="360" x="60" y="60" as="geometry" />
         </mxCell>
         <mxCell id="JjlJHW9zAyapvdCOgkPa-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
@@ -165,6 +165,18 @@
             <mxPoint x="930" y="209.5" as="sourcePoint" />
             <mxPoint x="990.0000000000002" y="209.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iZE65rSqbTTEPxV-hqpn-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="Bertimbau-STS" vertex="1">
+          <mxGeometry height="60" width="165.63" x="242.81" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iZE65rSqbTTEPxV-hqpn-47" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;rotation=90;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="160" width="20" x="150" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="iZE65rSqbTTEPxV-hqpn-48" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;rotation=90;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="160" width="20" x="312" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="iZE65rSqbTTEPxV-hqpn-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="GraphCodeBERT" vertex="1">
+          <mxGeometry height="60" width="165.63" x="77.18" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
