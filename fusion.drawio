@@ -22,8 +22,8 @@
         <mxCell id="iwipp3Z-so7iEqBcqzgf-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="240" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="iwipp3Z-so7iEqBcqzgf-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="Statement Embedding&lt;div&gt;m-dimensional&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="197" x="84.5" y="130" as="geometry" />
+        <mxCell id="iwipp3Z-so7iEqBcqzgf-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="&lt;div&gt;BERTimbau-STS&lt;/div&gt;Statement Embedding&lt;div&gt;m-dimensional (m = 768)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="207" x="78" y="130" as="geometry" />
         </mxCell>
         <mxCell id="iwipp3Z-so7iEqBcqzgf-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="81.5" y="220" as="geometry" />
@@ -43,8 +43,8 @@
         <mxCell id="iwipp3Z-so7iEqBcqzgf-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="241.5" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="iwipp3Z-so7iEqBcqzgf-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="Source Code Embedding&lt;div&gt;n&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-dimensional&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="207" x="78" y="280" as="geometry" />
+        <mxCell id="iwipp3Z-so7iEqBcqzgf-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="GraphCodeBERT&lt;div&gt;Source Code Embedding&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;n-dimensional (n = 768)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="207" x="76.5" y="260" as="geometry" />
         </mxCell>
         <mxCell id="iwipp3Z-so7iEqBcqzgf-27" edge="1" parent="1" source="iwipp3Z-so7iEqBcqzgf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" target="iwipp3Z-so7iEqBcqzgf-17">
           <mxGeometry relative="1" as="geometry" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="iwipp3Z-so7iEqBcqzgf-26" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="879" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4bFaTLs8fxUot9P59gXQ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Final Embedding&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(m+n)-dimensional (m + n = 1536)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="287" x="580" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
