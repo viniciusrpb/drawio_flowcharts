@@ -271,10 +271,10 @@
           <mxGeometry height="550" width="20" x="1067.5" y="105" as="geometry" />
         </mxCell>
         <mxCell id="Ax4ktZb8p4nfjRgdHEwt-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Retrieval" vertex="1">
-          <mxGeometry height="30" width="60" x="400" y="390" as="geometry" />
+          <mxGeometry height="30" width="90" x="385" y="390" as="geometry" />
         </mxCell>
         <mxCell id="Ax4ktZb8p4nfjRgdHEwt-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Generation" vertex="1">
-          <mxGeometry height="30" width="90" x="1032.5" y="390" as="geometry" />
+          <mxGeometry height="30" width="100" x="1027.5" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
