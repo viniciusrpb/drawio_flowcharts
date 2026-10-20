@@ -184,8 +184,8 @@
         </mxCell>
         <mxCell id="oc6NhrYj80L-jV3GgRO0-34" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="280" y="520" as="sourcePoint" />
-            <mxPoint x="280" y="76.5" as="targetPoint" />
+            <mxPoint x="280" y="521.75" as="sourcePoint" />
+            <mxPoint x="280" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oc6NhrYj80L-jV3GgRO0-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Feature Extraction" vertex="1">
@@ -197,13 +197,13 @@
         <mxCell id="oc6NhrYj80L-jV3GgRO0-38" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="680" y="520" as="sourcePoint" />
-            <mxPoint x="680" y="76.5" as="targetPoint" />
+            <mxPoint x="680" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oc6NhrYj80L-jV3GgRO0-39" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="920" y="520" as="sourcePoint" />
-            <mxPoint x="920" y="76.5" as="targetPoint" />
+            <mxPoint x="920" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oc6NhrYj80L-jV3GgRO0-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Compositing" vertex="1">
