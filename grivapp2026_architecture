@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="baLM36_PV8JTK2ahSkjP">
-    <mxGraphModel dx="1174" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="852" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="oc6NhrYj80L-jV3GgRO0-29" edge="1" parent="1" source="TPhAOD7HBUPYt74SVTLt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oc6NhrYj80L-jV3GgRO0-42">
           <mxGeometry relative="1" x="0.0746" as="geometry" />
         </mxCell>
-        <mxCell id="TPhAOD7HBUPYt74SVTLt-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="&lt;div&gt;RGBA Compositing&lt;/div&gt;&lt;div&gt;and Rendering&lt;/div&gt;" vertex="1">
+        <mxCell id="TPhAOD7HBUPYt74SVTLt-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="&lt;div&gt;RGBA Precompositing&lt;/div&gt;&lt;div&gt;and Rendering&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="730" y="160" as="geometry" />
         </mxCell>
         <mxCell id="TPhAOD7HBUPYt74SVTLt-21" edge="1" parent="1" source="oc6NhrYj80L-jV3GgRO0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" target="TPhAOD7HBUPYt74SVTLt-14">
